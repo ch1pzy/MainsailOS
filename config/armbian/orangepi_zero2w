@@ -16,6 +16,6 @@ export DOWNLOAD_URL_IMAGE
 ### JSON sniplet Setup
 ### NOTE: Please see all config files for setup variables!!!
 # shellcheck disable=SC2034
-JSON_PRETTY_SBC_NAME="Orange Pi Zero2"
+JSON_PRETTY_SBC_NAME="Orange Pi Zero2w"
 # shellcheck disable=SC2034
-JSON_SUPPORTED_SBC="orangepizero2-64bit"
+JSON_SUPPORTED_SBC="orangepizero2w-64bit"
